@@ -1,0 +1,52 @@
+body {
+    width: 500px;
+    height: 800px;
+}
+
+.cv {
+    width: 500px;
+    height: 800px;
+    background-color: #F7F3F3;
+    border-radius: 20px;  
+    border: 2px black solid;
+    text-align: center  ;
+    
+}
+
+.imagen_align{
+    text-align: center;
+}
+
+#imagen_cv{
+    height: 200px;
+    width:  225px;  
+    border: 2px solid #000000;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+h3{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.ord_list{
+    text-align: center;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+li{
+    text-align: left;
+}
+.un_h2{
+    margin: 0px;
+}
+
+.un_parrafo{
+    margin-top: 0px;
+}
+
+h1{
+    margin: 15px;
+}
